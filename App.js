@@ -68,7 +68,7 @@ export default function App() {
             },
           ]}
         >
-           To-do-List
+           To-do-List - (mobile pogramming)
         </Animated.Text>
       </View>
 
